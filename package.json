@@ -1,0 +1,15 @@
+{
+    "scripts": {
+        "start": "nodemon ip_address.js"
+    },
+    "name": "request_header_parser_microservice",
+    "version": "",
+    "dependencies": {
+        "accept-language-parser": "^1.4.1",
+        "express": "^4.16.2",
+        "express-locale": "^1.0.5",
+        "getos": "^3.1.0",
+        "ip": "^1.1.5",
+        "nodemon": "^1.14.11"
+    }
+}
